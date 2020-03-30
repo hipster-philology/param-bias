@@ -1,0 +1,98 @@
+(57, 55, 70): G Take, Obtain, Gain, Lose.txt	(20, 1, 11): A Violence.txt
+(14, 74, 86): I Sound.txt	(33, 323, 332): F' Command, Order.txt
+(54, 1, 1000): Maritime Activities.txt	(46, 1, 1000): Household Activities.txt
+(33, 406, 411): R' Mock, Ridicule.txt	(12, 1, 42): A Supernatural Beings.txt
+(88, 271, 282): J' Sexual Misbehavior.txt	(33, 189, 217): O Inform, Announce.txt
+(87, 4, 18): B Honor or Respect in Relation to Status.txt	(37, 108, 110): F Seize, Take into Custody.txt
+(28, 28, 56): C Well Known, Clearly Shown, Revealed.txt	(8, 9, 69): B Parts of the Body.txt
+(11, 55, 89): C Socio-Political.txt	(57, 25, 35): C Be Rich, Be Wealthy.txt
+(6, 215, 225): W Miscellaneous.txt	(37, 96, 107): E Assign to a Role or Function.txt
+(7, 63, 76): G Miscellaneous Constructions.txt	(25, 270, 287): W Sorrow, Regret.txt
+(65, 30, 39): D Useful, Useless.txt	(70, 1, 1000): Real, Unreal.txt
+(51, 1, 1000): Festivals.txt	(11, 1, 11): A General.txt
+(61, 1, 1000): Sequence.txt	(52, 1, 1000): Funerals and Burial.txt
+(71, 1, 10): A Possible, Impossible.txt	(78, 51, 53): E Up To, As Much As, To the Degree That [Marked Extent of Degree].txt
+(39, 22, 32): E Strife, Struggle.txt	(85, 32, 54): B Put, Place.txt
+(89, 39, 54): H Result.txt	(76, 1, 1000): Power, Force.txt
+(38, 1, 13): A Punish.txt	(66, 1, 1000): Proper, Improper.txt
+(6, 83, 95): L Musical Instruments.txt	(89, 92, 104): Q Addition.txt
+(85, 55, 64): C Remain, Stay.txt	(9, 1, 23): A Human Beings.txt
+(11, 1, 11): A General.txt	(58, 1, 13): A Nature, Character.txt
+(33, 368, 373): M' Boast.txt	(6, 215, 225): W Miscellaneous.txt
+(35, 1, 18): A Help.txt	(5, 1, 22): A Food.txt
+(88, 126, 134): P Treat Badly.txt	(30, 86, 107): F To Choose, To Select, To Prefer.txt
+(15, 165, 186): W Lead, Bring, Take.txt	(39, 34, 41): G Rebellion.txt
+(12, 43, 50): B Supernatural Powers.txt	(30, 56, 74): D To Intend, To Purpose, To Plan.txt
+(27, 1, 26): A Learn.txt	(33, 307, 314): C' Call.txt
+(6, 83, 95): L Musical Instruments.txt	(30, 75, 85): E To Decide, To Conclude.txt
+(78, 28, 39): B More Than, Less Than [Comparative Degree].txt	(53, 53, 64): G Worship, Reverence.txt
+(33, 387, 403): P' Insult, Slander.txt	(6, 54, 67): J Instruments Used in Marking and Writing.txt
+(33, 307, 314): C' Call.txt	(67, 118, 135): F Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From.txt
+(27, 55, 60): F Be Ready To Learn, Pay Attention.txt	(12, 1, 42): A Supernatural Beings.txt
+(1, 5, 16): B Regions Above the Earth.txt	(51, 1, 1000): Festivals.txt
+(12, 1, 42): A Supernatural Beings.txt	(89, 92, 104): Q Addition.txt
+(67, 136, 141): G Duration of Time with Reference to Some Unit of Time: During, In, While, Throughout.txt	(15, 123, 134): M Gather, Cause To Come Together.txt
+(8, 9, 69): B Parts of the Body.txt	(34, 66, 78): J Marriage, Divorce.txt
+(33, 262, 273): T Witness, Testify.txt	(71, 21, 33): D Should, Ought.txt
+(67, 201, 208): J Units of Time with Reference to Other Units or Points of Time: Yesterday, Today, Next Day.txt	(88, 24, 35): C Holy, Pure.txt
+(25, 33, 58): C Love, Affection, Compassion.txt	(87, 76, 86): E Slave, Free.txt
+(33, 161, 177): L Ask For, Request.txt	(37, 48, 95): D Rule, Govern.txt
+(6, 118, 151): P Containers.txt	(13, 48, 68): B Change of State.txt
+(44, 1, 1000): Animal Husbandry, Fishing.txt	(34, 22, 30): B Join, Begin To Associate.txt
+(43, 1, 1000): Agriculture.txt	(91, 1, 5): A Markers of Transition.txt
+(1, 26, 33): D Heavenly Bodies.txt	(20, 12, 30): B Harm, Wound.txt
+(31, 82, 101): I Trust, Rely.txt	(57, 1, 21): A Have, Possess, Property, Owner.txt
+(59, 62, 71): G Increase, Decrease.txt	(67, 1, 16): A A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often.txt
+(84, 16, 28): B Extension To a Goal.txt	(88, 283, 288): K' Drunkenness.txt
+(78, 1, 27): A Much, Little [Positive-Negative Degree].txt	(33, 224, 250): Q Teach.txt
+(23, 46, 60): C Birth, Procreation.txt	(75, 1, 1000): Adequate, Qualified.txt
+(6, 215, 225): W Miscellaneous.txt	(33, 323, 332): F' Command, Order.txt
+(25, 135, 145): L Laugh, Cry, Groan.txt	(33, 387, 403): P' Insult, Slander.txt
+(3, 2, 12): B Trees.txt	(71, 21, 33): D Should, Ought.txt
+(33, 323, 332): F' Command, Order.txt	(3, 33, 46): D Fruit Parts of Plants.txt
+(42, 29, 40): C Make, Create.txt	(89, 15, 38): G Cause and-or Reason.txt
+(57, 55, 70): G Take, Obtain, Gain, Lose.txt	(67, 142, 162): H Indefinite Units of Time: Age, Lifetime, Interval, Period.txt
+(43, 1, 1000): Agriculture.txt	(88, 1, 11): A Goodness.txt
+(6, 68, 82): K Money and Monetary Units.txt	(85, 55, 64): C Remain, Stay.txt
+(79, 48, 56): J Clean, Dirty.txt	(22, 21, 28): C Cause Trouble, Hardship.txt
+(5, 1, 22): A Food.txt	(6, 152, 187): Q Cloth, Leather, and Objects Made of Such Materials.txt
+(31, 50, 57): G Accept As True.txt	(34, 31, 39): C Belong To, Be Included in the Membership of, Be Excluded From.txt
+(14, 74, 86): I Sound.txt	(31, 8, 13): B Hold a Wrong View, Be Mistaken.txt
+(1, 69, 78): J Bodies of Water.txt	(88, 126, 134): P Treat Badly.txt
+(57, 1, 21): A Have, Possess, Property, Owner.txt	(35, 36, 46): D Care For, Take Care Of.txt
+(33, 69, 108): F Speak, Talk.txt	(42, 29, 40): C Make, Create.txt
+(6, 118, 151): P Containers.txt	(31, 1, 7): A Have an Opinion, Hold a View.txt
+(60, 10, 45): B One, Two, Three, Etc. [Cardinals].txt	(72, 1, 11): A True, False.txt
+(7, 2, 25): B Buildings.txt	(79, 48, 56): J Clean, Dirty.txt
+(13, 48, 68): B Change of State.txt	(41, 29, 43): C Particular Patterns of Behavior.txt
+(61, 1, 1000): Sequence.txt	(8, 1, 8): A Body.txt
+(3, 2, 12): B Trees.txt	(23, 142, 184): I Sickness, Disease, Weakness.txt
+(74, 1, 1000): Able, Capable.txt	(25, 189, 202): R Shame, Disgrace, Humiliation.txt
+(33, 224, 250): Q Teach.txt	(58, 1, 13): A Nature, Character.txt
+(59, 48, 61): F Abundance, Excess, Sparing.txt	(42, 29, 40): C Make, Create.txt
+(67, 118, 135): F Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From.txt	(39, 22, 32): E Strife, Struggle.txt
+(33, 323, 332): F' Command, Order.txt	(20, 12, 30): B Harm, Wound.txt
+(33, 126, 133): I Name.txt	(6, 106, 117): O Furniture.txt
+(42, 41, 50): D Work, Toil.txt	(20, 61, 88): D Kill.txt
+(57, 189, 208): P Earn, Gain, Do Business.txt	(67, 17, 64): B A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After.txt
+(37, 127, 138): J Release, Set Free.txt	(57, 1, 21): A Have, Possess, Property, Owner.txt
+(70, 1, 1000): Real, Unreal.txt	(32, 24, 41): D Capacity for Understanding.txt
+(3, 33, 46): D Fruit Parts of Plants.txt	(84, 16, 28): B Extension To a Goal.txt
+(57, 232, 248): U Steal, Rob.txt	(31, 1, 7): A Have an Opinion, Hold a View.txt
+(53, 66, 95): I Roles and Functions.txt	(34, 1, 21): A Associate.txt
+(88, 105, 125): O Bad, Evil, Harmful, Damaging.txt	(61, 1, 1000): Sequence.txt
+(31, 1, 7): A Have an Opinion, Hold a View.txt	(32, 11, 18): B Come To Understand.txt
+(79, 9, 17): D Beautiful, Ugly.txt	(85, 55, 64): C Remain, Stay.txt
+(32, 24, 41): D Capacity for Understanding.txt	(88, 75, 82): J Mercy, Merciless.txt
+(18, 1, 11): A Grasp, Hold.txt	(1, 39, 45): F The Earth's Surface.txt
+(53, 44, 52): F Dedicate, Consecrate.txt	(78, 1, 27): A Much, Little [Positive-Negative Degree].txt
+(88, 105, 125): O Bad, Evil, Harmful, Damaging.txt	(7, 2, 25): B Buildings.txt
+(54, 1, 1000): Maritime Activities.txt	(59, 62, 71): G Increase, Decrease.txt
+(57, 209, 218): Q Lend, Loan, Interest, Borrow, Bank.txt	(90, 56, 84): M Experiencer.txt
+(15, 123, 134): M Gather, Cause To Come Together.txt	(13, 69, 103): C Exist.txt
+(33, 387, 403): P' Insult, Slander.txt	(31, 50, 57): G Accept As True.txt
+(14, 74, 86): I Sound.txt	(27, 1, 26): A Learn.txt
+(63, 13, 20): D Part.txt	(39, 34, 41): G Rebellion.txt
+(23, 88, 128): G Live, Die.txt	(25, 206, 222): T Surprise, Astonish.txt
+(20, 31, 60): C Destroy.txt	(37, 96, 107): E Assign to a Role or Function.txt
+(11, 12, 54): B Socio-Religious.txt	(20, 1, 11): A Violence.txt

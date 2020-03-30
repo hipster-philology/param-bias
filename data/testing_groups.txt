@@ -1,0 +1,98 @@
+(57, 55, 70): G Take, Obtain, Gain, Lose.txt	(20, 1, 11): A Violence.txt	3	1	ζητέω	ἀποτάσσομαι	κτάομαι	ἅρπαξ
+(14, 74, 86): I Sound.txt	(33, 323, 332): F' Command, Order.txt	3	1	ὠρύομαι	θόρυβος	ἠχέω	ἐπιταγή
+(54, 1, 1000): Maritime Activities.txt	(46, 1, 1000): Household Activities.txt	3	1	κατάγω	εὐθύνω	ἐκπλέω	ὑπακούω
+(33, 406, 411): R' Mock, Ridicule.txt	(12, 1, 42): A Supernatural Beings.txt	3	1	διαχλευάζω	ἐκμυκτηρίζω	ἐμπαίζω	πνεῦμα
+(88, 271, 282): J' Sexual Misbehavior.txt	(33, 189, 217): O Inform, Announce.txt	3	1	μοιχεία	ὀπίσω	ἀπέρχομαι	φάσις
+(87, 4, 18): B Honor or Respect in Relation to Status.txt	(37, 108, 110): F Seize, Take into Custody.txt	3	1	οἶδα	ἐπιβλέπω	τιμάω	ἐπιλαμβάνομαι
+(28, 28, 56): C Well Known, Clearly Shown, Revealed.txt	(8, 9, 69): B Parts of the Body.txt	3	1	τεκμήριον	δεῖγμα	ἀποκάλυψις	θώραξ
+(11, 55, 89): C Socio-Political.txt	(57, 25, 35): C Be Rich, Be Wealthy.txt	3	1	πολιτεία	δῆμος	ζηλωτής	πλούσιος
+(6, 215, 225): W Miscellaneous.txt	(37, 96, 107): E Assign to a Role or Function.txt	3	1	ὕαλος	ὑάλινος	τρῆμα	ἐπί
+(7, 63, 76): G Miscellaneous Constructions.txt	(25, 270, 287): W Sorrow, Regret.txt	3	1	ἀφεδρών	ὑπολήνιον	λιθόστρωτος	ἀγωνία
+(65, 30, 39): D Useful, Useless.txt	(70, 1, 1000): Real, Unreal.txt	3	1	εὔχρηστος	ἄκαρπος	μάταιος	ἔγγυος
+(51, 1, 1000): Festivals.txt	(11, 1, 11): A General.txt	3	1	ἑορτή	πάσχα	νεομηνία	λαός
+(61, 1, 1000): Sequence.txt	(52, 1, 1000): Funerals and Burial.txt	3	1	ἀπό	ἀπαρχή	εἷς	ἐνταφιάζω
+(71, 1, 10): A Possible, Impossible.txt	(78, 51, 53): E Up To, As Much As, To the Degree That [Marked Extent of Degree].txt	3	1	ἀδύνατος	δυνατός	ἀνένδεκτος	ἕως
+(39, 22, 32): E Strife, Struggle.txt	(85, 32, 54): B Put, Place.txt	3	1	πολεμέω	ἀγών	μάχη	στηρίζω
+(89, 39, 54): H Result.txt	(76, 1, 1000): Power, Force.txt	3	1	ὀψώνιον	ἀντί	εἰκῇ	ἀθετέω
+(38, 1, 13): A Punish.txt	(66, 1, 1000): Proper, Improper.txt	3	1	μαστιγόω	δίκη	βασανίζω	ἀναξίως
+(6, 83, 95): L Musical Instruments.txt	(89, 92, 104): Q Addition.txt	3	1	αὐλητής	σάλπιγξ	αὐλός	δέ
+(85, 55, 64): C Remain, Stay.txt	(9, 1, 23): A Human Beings.txt	3	1	ἀγραύλεω	ἐπέχω	ἐπιμένω	γῆ
+(11, 1, 11): A General.txt	(58, 1, 13): A Nature, Character.txt	3	1	υἱός	νυμφών	συμπόσιον	σάρξ
+(33, 368, 373): M' Boast.txt	(6, 215, 225): W Miscellaneous.txt	3	1	καυχάομαι	καύχησις	καύχημα	ὕαλος
+(35, 1, 18): A Help.txt	(5, 1, 22): A Food.txt	3	1	ἀντιλαμβάνομαι	ὑπολαμβάνω	ἐπιλαμβάνομαι	ψίξ
+(88, 126, 134): P Treat Badly.txt	(30, 86, 107): F To Choose, To Select, To Prefer.txt	3	1	ἀτιμάζω	ὑβρίζω	ὕβρις	προχειροτονέω
+(15, 165, 186): W Lead, Bring, Take.txt	(39, 34, 41): G Rebellion.txt	3	1	καθίστημι	ἐκβάλλω	ἀναλαμβάνω	ὑπεραίρομαι
+(12, 43, 50): B Supernatural Powers.txt	(30, 56, 74): D To Intend, To Purpose, To Plan.txt	3	1	ἐπουράνιος	στρατιά	πονηρία	ἀδήλως
+(27, 1, 26): A Learn.txt	(33, 307, 314): C' Call.txt	3	1	ἀφοράω	εὑρίσκω	διερωτάω	προσφωνέω
+(6, 83, 95): L Musical Instruments.txt	(30, 75, 85): E To Decide, To Conclude.txt	3	1	ἦχος	σαλπίζω	αὐλός	πνεῦμα
+(78, 28, 39): B More Than, Less Than [Comparative Degree].txt	(53, 53, 64): G Worship, Reverence.txt	3	1	περισσεύω	προηγέομαι	ἥσσων	κάμπτω
+(33, 387, 403): P' Insult, Slander.txt	(6, 54, 67): J Instruments Used in Marking and Writing.txt	3	1	ἐκβάλλω	βλασφημία	ὑβρίζω	ἐπιστολή
+(33, 307, 314): C' Call.txt	(67, 118, 135): F Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From.txt	3	1	μετακαλέομαι	κλῆσις	συγκαλέω	βραδύς
+(27, 55, 60): F Be Ready To Learn, Pay Attention.txt	(12, 1, 42): A Supernatural Beings.txt	3	1	ἀγρυπνέω	βλέπω	σκοπέω	πονηρός
+(1, 5, 16): B Regions Above the Earth.txt	(51, 1, 1000): Festivals.txt	3	1	ἐπουράνιος	ὕψιστος	οὐρανός	πανήγυρις
+(12, 1, 42): A Supernatural Beings.txt	(89, 92, 104): Q Addition.txt	3	1	κύριος	ελωι	πνεῦμα	ἀλλά
+(67, 136, 141): G Duration of Time with Reference to Some Unit of Time: During, In, While, Throughout.txt	(15, 123, 134): M Gather, Cause To Come Together.txt	3	1	οὗ	ὅς	ἐν	συναθροίζω
+(8, 9, 69): B Parts of the Body.txt	(34, 66, 78): J Marriage, Divorce.txt	3	1	μέλος	στόμαχος	πτέρνα	γαμέω
+(33, 262, 273): T Witness, Testify.txt	(71, 21, 33): D Should, Ought.txt	3	1	μάρτυς	καταμαρτυρέω	ἐπιμαρτυρέω	χρή
+(67, 201, 208): J Units of Time with Reference to Other Units or Points of Time: Yesterday, Today, Next Day.txt	(88, 24, 35): C Holy, Pure.txt	3	1	ἐπαύριον	προσάββατον	ἔχω	ὅσιος
+(25, 33, 58): C Love, Affection, Compassion.txt	(87, 76, 86): E Slave, Free.txt	3	1	ἀγαπητός	ζῆλος	ἀγάπη	εἰμί
+(33, 161, 177): L Ask For, Request.txt	(37, 48, 95): D Rule, Govern.txt	3	1	προσαίτης	καλῶς	προσανατίθεμαι	λαμβάνω
+(6, 118, 151): P Containers.txt	(13, 48, 68): B Change of State.txt	3	1	νιπτήρ	κατασκηνόω	θησαυρός	ἀνακαινίζω
+(44, 1, 1000): Animal Husbandry, Fishing.txt	(34, 22, 30): B Join, Begin To Associate.txt	3	1	ἀρχιποίμην	ἁλιεύω	σιτιστός	προσκολλάομαι
+(43, 1, 1000): Agriculture.txt	(91, 1, 5): A Markers of Transition.txt	3	1	ἀμάω	ποτίζω	δρέπανον	γίνομαι
+(1, 26, 33): D Heavenly Bodies.txt	(20, 12, 30): B Harm, Wound.txt	3	1	ἄστρον	ἀστήρ	ἐπουράνιος	πατέω
+(31, 82, 101): I Trust, Rely.txt	(57, 1, 21): A Have, Possess, Property, Owner.txt	3	1	ἑδραῖος	βέβαιος	πιστός	συμμέτοχος
+(59, 62, 71): G Increase, Decrease.txt	(67, 1, 16): A A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often.txt	3	1	κολλάομαι	ἐπισωρεύω	αὐξάνω	δήποτε
+(84, 16, 28): B Extension To a Goal.txt	(88, 283, 288): K' Drunkenness.txt	3	1	εἰς	ἕως	κάτω	μεθύσκομαι
+(78, 1, 27): A Much, Little [Positive-Negative Degree].txt	(33, 224, 250): Q Teach.txt	3	1	μάλιστα	πολύς	ἰσχυρός	ῥαββί
+(23, 46, 60): C Birth, Procreation.txt	(75, 1, 1000): Adequate, Qualified.txt	3	1	ἀνίστημι	γενετή	κοιλία	κατάρτισις
+(6, 215, 225): W Miscellaneous.txt	(33, 323, 332): F' Command, Order.txt	3	1	κλείς	ὕαλος	ἔσοπτρον	διαστέλλομαι
+(25, 135, 145): L Laugh, Cry, Groan.txt	(33, 387, 403): P' Insult, Slander.txt	3	1	πενθέω	θρηνέω	γέλως	βλασφημέω
+(3, 2, 12): B Trees.txt	(71, 21, 33): D Should, Ought.txt	3	1	ἐλαιών	ἀγριέλαιος	καλλιέλαιος	ἀναγκαστῶς
+(33, 323, 332): F' Command, Order.txt	(3, 33, 46): D Fruit Parts of Plants.txt	3	1	ἐπιτιμάω	διαταγή	ἐπιτάσσω	σπόρος
+(42, 29, 40): C Make, Create.txt	(89, 15, 38): G Cause and-or Reason.txt	3	1	καταβολή	κτίστης	κτίσις	ἀπό
+(57, 55, 70): G Take, Obtain, Gain, Lose.txt	(67, 142, 162): H Indefinite Units of Time: Age, Lifetime, Interval, Period.txt	3	1	κατάσχεσις	λαμβάνω	περιποιέομαι	στιγμή
+(43, 1, 1000): Agriculture.txt	(88, 1, 11): A Goodness.txt	3	1	ποτίζω	ἀποστέλλω	ἐγκεντρίζω	εὐποιΐα
+(6, 68, 82): K Money and Monetary Units.txt	(85, 55, 64): C Remain, Stay.txt	3	1	ἀργύριον	κέρμα	νόμισμα	ἀγραύλεω
+(79, 48, 56): J Clean, Dirty.txt	(22, 21, 28): C Cause Trouble, Hardship.txt	3	1	ἀκαθαρσία	καθαρός	ῥυπαρός	θραύω
+(5, 1, 22): A Food.txt	(6, 152, 187): Q Cloth, Leather, and Objects Made of Such Materials.txt	3	1	γάλα	εἰδωλόθυτον	σεμίδαλις	χλαμύς
+(31, 50, 57): G Accept As True.txt	(34, 31, 39): C Belong To, Be Included in the Membership of, Be Excluded From.txt	3	1	ἀποδέχομαι	ἀνέχομαι	βαστάζω	παραιτέομαι
+(14, 74, 86): I Sound.txt	(31, 8, 13): B Hold a Wrong View, Be Mistaken.txt	3	1	θόρυβος	μυκάομαι	φωνέω	φρεναπατάω
+(1, 69, 78): J Bodies of Water.txt	(88, 126, 134): P Treat Badly.txt	3	1	χείμαρρος	βυθός	θάλασσα	καταπονέω
+(57, 1, 21): A Have, Possess, Property, Owner.txt	(35, 36, 46): D Care For, Take Care Of.txt	3	1	οἰκοδεσπότης	κατάσχεσις	κτήτωρ	προνοέω
+(33, 69, 108): F Speak, Talk.txt	(42, 29, 40): C Make, Create.txt	3	1	λέγω	μογιλάλος	ἀκοή	καταρτίζω
+(6, 118, 151): P Containers.txt	(31, 1, 7): A Have an Opinion, Hold a View.txt	3	1	γαζοφυλάκιον	ποτήριον	μόδιος	ἔχω
+(60, 10, 45): B One, Two, Three, Etc. [Cardinals].txt	(72, 1, 11): A True, False.txt	3	1	τρισχίλιοι	τρεῖς	τριακόσιοι	δολόω
+(7, 2, 25): B Buildings.txt	(79, 48, 56): J Clean, Dirty.txt	3	1	ἀκροατήριον	πανδοχεύς	σκηνοποιός	περικάθαρμα
+(13, 48, 68): B Change of State.txt	(41, 29, 43): C Particular Patterns of Behavior.txt	3	1	ἀνάστασις	ἰάομαι	προκοπή	ἄνθρωπος
+(61, 1, 1000): Sequence.txt	(8, 1, 8): A Body.txt	3	1	λοιμός	ἔσχατος	ἀπό	σωματικός
+(3, 2, 12): B Trees.txt	(23, 142, 184): I Sickness, Disease, Weakness.txt	3	1	δένδρον	ὕλη	συκῆ	δεσμός
+(74, 1, 1000): Able, Capable.txt	(25, 189, 202): R Shame, Disgrace, Humiliation.txt	3	1	νεκρός	στερεόω	στηριγμός	αἰσχύνη
+(33, 224, 250): Q Teach.txt	(58, 1, 13): A Nature, Character.txt	3	1	αἵρεσις	διδακτικός	παιδεία	φυσικός
+(59, 48, 61): F Abundance, Excess, Sparing.txt	(42, 29, 40): C Make, Create.txt	3	1	πλουτέω	ἐπί	ἁδρότης	κτίσις
+(67, 118, 135): F Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From.txt	(39, 22, 32): E Strife, Struggle.txt	3	1	μέχρι(ς)	ἕως	αἰώνιος	θηριομαχέω
+(33, 323, 332): F' Command, Order.txt	(20, 12, 30): B Harm, Wound.txt	3	1	κέλευσμα	ἔνταλμα	τάσσω	ἅπτω
+(33, 126, 133): I Name.txt	(6, 106, 117): O Furniture.txt	3	1	ἐπικαλέω	ὀνομάζω	ἐπιλέγω	σορός
+(42, 41, 50): D Work, Toil.txt	(20, 61, 88): D Kill.txt	3	1	ἀργός	συναθλέω	ἐργάτης	ἀποκεφαλίζω
+(57, 189, 208): P Earn, Gain, Do Business.txt	(67, 17, 64): B A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After.txt	3	1	ἐμπορεύομαι	διαπραγματεύομαι	ἄρτος	θύρα
+(37, 127, 138): J Release, Set Free.txt	(57, 1, 21): A Have, Possess, Property, Owner.txt	3	1	ἄφεσις	ἀπολύτρωσις	ἐλευθερόω	βίος
+(70, 1, 1000): Real, Unreal.txt	(32, 24, 41): D Capacity for Understanding.txt	3	1	ὅλως	κυρόω	ὄντως	σοφία
+(3, 33, 46): D Fruit Parts of Plants.txt	(84, 16, 28): B Extension To a Goal.txt	3	1	βότρυς	κριθή	σπόρος	εἰς
+(57, 232, 248): U Steal, Rob.txt	(31, 1, 7): A Have an Opinion, Hold a View.txt	3	1	διαρπάζω	ἁρπαγή	κατεσθίω	φρονέω
+(53, 66, 95): I Roles and Functions.txt	(34, 1, 21): A Associate.txt	3	1	συμπρεσβύτερος	ψευδοπροφήτης	Χριστός	σύντροφος
+(88, 105, 125): O Bad, Evil, Harmful, Damaging.txt	(61, 1, 1000): Sequence.txt	3	1	κακία	λύκος	πονηρία	Ὦ
+(31, 1, 7): A Have an Opinion, Hold a View.txt	(32, 11, 18): B Come To Understand.txt	3	1	λέγω	θέλω	λογίζομαι	ἐπίγνωσις
+(79, 9, 17): D Beautiful, Ugly.txt	(85, 55, 64): C Remain, Stay.txt	3	1	κοσμέω	μεγαλοπρεπής	ἀσχήμων	ἀγραύλεω
+(32, 24, 41): D Capacity for Understanding.txt	(88, 75, 82): J Mercy, Merciless.txt	3	1	σοφία	αἰσθητήριον	αἰσθάνομαι	ἐλεεινός
+(18, 1, 11): A Grasp, Hold.txt	(1, 39, 45): F The Earth's Surface.txt	3	1	ἔχω	κρατέω	ἄγρα	ὑπό
+(53, 44, 52): F Dedicate, Consecrate.txt	(78, 1, 27): A Much, Little [Positive-Negative Degree].txt	3	1	βαπτίζω	περιτομή	ἁγιωσύνη	εἰς
+(88, 105, 125): O Bad, Evil, Harmful, Damaging.txt	(7, 2, 25): B Buildings.txt	3	1	κακοποιός	ἔχιδνα	λύκος	οἰκία
+(54, 1, 1000): Maritime Activities.txt	(59, 62, 71): G Increase, Decrease.txt	3	1	ἐπανάγω	ἀνάγω	ναυαγέω	κολλάομαι
+(57, 209, 218): Q Lend, Loan, Interest, Borrow, Bank.txt	(90, 56, 84): M Experiencer.txt	3	1	τράπεζα	τόκος	δάνειον	πρός
+(15, 123, 134): M Gather, Cause To Come Together.txt	(13, 69, 103): C Exist.txt	3	1	ἐπαθροίζομαι	σύνειμι	συμφέρω	παρίστημι
+(33, 387, 403): P' Insult, Slander.txt	(31, 50, 57): G Accept As True.txt	3	1	βλάσφημος	δυσφημία	ἀντιλοιδορέω	χωρέω
+(14, 74, 86): I Sound.txt	(27, 1, 26): A Learn.txt	3	1	ἦχος	συμφωνία	ῥοιζηδόν	διαγινώσκω
+(63, 13, 20): D Part.txt	(39, 34, 41): G Rebellion.txt	3	1	κατά	ἀπό	πολυμερῶς	ἀκαταστασία
+(23, 88, 128): G Live, Die.txt	(25, 206, 222): T Surprise, Astonish.txt	3	1	παραδίδωμι	θάνατος	ὑπάγω	θαυμάζω
+(20, 31, 60): C Destroy.txt	(37, 96, 107): E Assign to a Role or Function.txt	3	1	διαφθείρω	αἴρω	καθαιρέω	ἐπί
+(11, 12, 54): B Socio-Religious.txt	(20, 1, 11): A Violence.txt	3	1	νεόφυτος	υἱός	ἀποσυνάγωγος	βιαστής

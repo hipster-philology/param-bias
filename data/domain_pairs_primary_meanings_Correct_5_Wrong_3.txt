@@ -1,0 +1,100 @@
+53 A Religious Practice.txt	11 C Socio-Political.txt	5	3	εὐσέβεια	ἱεροπρεπής	θεοσέβεια	εὐσεβής	θρησκεία	ἔθνος	συμφυλέτης	ἐντόπιος
+33 E Written Language.txt	87 C High Status or Rank [including persons of high status].txt	5	3	ἰῶτα	ἀποστάσιον	γράμμα	χειρόγραφον	καταλέγω	πρωτεύω	πρωτοστάτης	ἐξοχή
+64 Comparison.txt	11 B Socio-Religious.txt	5	3	ὁμοιόω	ὁμοίως	ὁμοιότης	ὁμοίωμα	ἔοικα	ἀδελφότης	νεόφυτος	ἄδικος
+23 I Sickness, Disease, Weakness.txt	60 B One, Two, Three, Etc. [Cardinals].txt	5	3	κάμνω	λοιμός	λεπρός	δυσεντέριον	ἄρρωστος	τρεῖς	δέκα	πέντε
+33 Q Teach.txt	6 Q Cloth, Leather, and Objects Made of Such Materials.txt	5	3	θεοδίδακτος	διδαχή	παιδεία	σωφρονίζω	παιδεύω	ἐπίβλημα	ὀθόνη	ὀθόνιον
+16 Non-Linear Movement.txt	11 B Socio-Religious.txt	5	3	ἐκτινάσσω	σαλεύω	ἔντρομος	τρόμος	ῥιπή	ἐθνικῶς	ψευδάδελφος	ἄνομος
+67 I Definite Units of Time: Year, Month, Week, Day, Hour.txt	53 A Religious Practice.txt	5	3	διετία	ἔτος	διετής	ἐνιαυτός	φθινοπωρινός	θεοσέβεια	εὐσεβής	θεοσεβής
+33 O Inform, Announce.txt	23 G Live, Die.txt	5	3	ἀγγελία	ἐξηγέομαι	ἄγγελος	ἐκδιηγέομαι	διηγέομαι	ζῳογονέω	ζάω	ἐξανάστασις
+24 A See.txt	41 A Behavior, Conduct.txt	5	3	βλέπω	περιβλέπομαι	ἀναβλέπω	βλέμμα	ἀόρατος	ἀγωγή	κατάστημα	συνοικέω
+23 C Birth, Procreation.txt	37 A Control, Restrain.txt	5	3	τίκτω	ἀρτιγέννητος	ἔγκυος	γεννητός	ὠδίν	ζωγρέω	δοῦλος	συλαγωγέω
+5 A Food.txt	4 A Animals.txt	5	3	ψωμίον	σιτομέτριον	πόμα	ψίξ	διατροφή	ἀλώπηξ	θρέμμα	ὑποζύγιον
+23 C Birth, Procreation.txt	33 J Interpret, Mean, Explain.txt	5	3	τεκνογονέω	τεκνογονία	γένεσις	ἔγκυος	τίκτω	ἐπίλυσις	μεθερμηνεύω	ἑρμηνεία
+54 Maritime Activities.txt	67 I Definite Units of Time: Year, Month, Week, Day, Hour.txt	5	3	πλοῦς	παραλέγομαι	ἀποπλέω	ἀνάγω	βραδυπλοέω	παραχειμάζω	χειμών	ἔτος
+64 Comparison.txt	33 E Written Language.txt	5	3	οἷος	ὁμοιόω	ὁμοίωμα	ἀφομοιόω	ὁμοίωσις	ἐλλογέω	καταλέγω	ἀποστάσιον
+53 A Religious Practice.txt	64 Comparison.txt	5	3	εὐσεβῶς	θρησκός	δεισιδαίμων	ἱεροπρεπής	εὐσεβής	ἔοικα	ὁμοίωσις	ὁμοιότης
+53 A Religious Practice.txt	16 Non-Linear Movement.txt	5	3	δεισιδαίμων	δεισιδαιμονία	θεοσέβεια	θρησκός	ἱεροπρεπής	σαλεύω	σείω	τρέμω
+53 I Roles and Functions.txt	6 Q Cloth, Leather, and Objects Made of Such Materials.txt	5	3	προφῆτις	εὐπάρεδρον	ἀποστολή	συμπρεσβύτερος	ψευδαπόστολος	ῥάκος	ἔνδυμα	σινδών
+14 F Light.txt	6 Q Cloth, Leather, and Objects Made of Such Materials.txt	5	3	διαυγάζω	ἐπιφαύσκω	φωτίζω	ἐπιφαίνω	λάμπω	λέντιον	σινδών	ὀθόνιον
+43 Agriculture.txt	7 C Parts and Areas of Buildings.txt	5	3	ἐκριζόω	γεωργός	ἐγκεντρίζω	σπείρω	ἀροτριάω	ξενία	κοιτών	οἴκημα
+14 F Light.txt	67 B A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After.txt	5	3	ἐκλάμπω	ἐπιφώσκω	ἐπιφαύσκω	ἐπιφαίνω	διαυγάζω	ἔκπαλαι	πρίν	πρῶτον
+28 C Well Known, Clearly Shown, Revealed.txt	25 U Worry, Anxiety, Distress, Peace.txt	5	3	χρηματισμός	δηλόω	ξένος	αὐγάζω	φανερός	ἀνασκευάζω	θορυβάζω	μετεωρίζομαι
+11 B Socio-Religious.txt	24 F Pain, Suffering.txt	5	3	νεόφυτος	ψευδάδελφος	ἄδικος	ἐκκλησία	ποίμνιον	πάθημα	συμπαθέω	προπάσχω
+2 F Precious and Semiprecious Stones and Substances.txt	23 I Sickness, Disease, Weakness.txt	5	3	τοπάζιον	βήρυλλος	σμάραγδος	χρυσόπρασος	ἴασπις	πυρετός	μαλακία	πυρέσσω
+23 C Birth, Procreation.txt	11 B Socio-Religious.txt	5	3	ὠδίν	γενετή	τεκνογονία	τίκτω	γέννημα	ἐκκλησία	Χριστιανός	ἀδελφότης
+23 C Birth, Procreation.txt	4 A Animals.txt	5	3	ἀρτιγέννητος	τεκνογονία	ὠδίν	γεννητός	γενετή	θηρίον	κτῆνος	λύκος
+10 B Kinship Relations Involving Successive Generations.txt	12 A Supernatural Beings.txt	5	3	μήτηρ	πατήρ	πατρῷος	ἀπάτωρ	ἀμήτωρ	Σαβαώθ	κύριος	ἄθεος
+25 U Worry, Anxiety, Distress, Peace.txt	28 E Not Able To Be Known, Secret.txt	5	3	ἀνασκευάζω	μέριμνα	θορυβέω	μεριμνάω	καταπονέω	ἀφανής	κρυφῇ	ἀπόκρυφος
+37 D Rule, Govern.txt	33 E Written Language.txt	5	3	ἡγεμονία	ἐξουσιάζω	ἡγεμονεύω	κατακυριεύω	ἄρχων	καταλέγω	ἀπογράφω	ἐπιγραφή
+15 D Leave, Depart, Flee, Escape, Send.txt	28 E Not Able To Be Known, Secret.txt	5	3	ἀπολύω	ἐκχωρέω	ἐκπορεύομαι	ἔξειμι	ἐκβαίνω	βαθύς	κρυπτός	βάθος
+24 A See.txt	33 O Inform, Announce.txt	5	3	βλέμμα	ὅραμα	ἀόρατος	ἀναβλέπω	περιβλέπομαι	ἐρεύγομαι	ἀγγελία	ἐκδιηγέομαι
+8 B Parts of the Body.txt	24 A See.txt	5	3	κρανίον	τρίχινος	κέρας	κόμη	μέτωπον	ὁράω	ἀναβλέπω	περιβλέπομαι
+54 Maritime Activities.txt	11 C Socio-Political.txt	5	3	πλοῦς	παραλέγομαι	βραδυπλοέω	ἀποπλέω	πλέω	λαός	συμπολίτης	ἔθνος
+14 F Light.txt	13 D Happen.txt	5	3	ἐκλάμπω	φωτίζω	λάμπω	φέγγος	ἐπιφώσκω	ἐπιγίνομαι	ἐπεισέρχομαι	πρᾶγμα
+88 X Anger, Be Indignant With.txt	15 D Leave, Depart, Flee, Escape, Send.txt	5	3	προσοχθίζω	θυμομαχέω	παροργισμός	ὀργίλος	θυμόομαι	ἀποβαίνω	ἐκπορεύομαι	ἀπέρχομαι
+67 B A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After.txt	12 A Supernatural Beings.txt	5	3	πάλαι	ὁπότε	πρότερος	ἔκπαλαι	προφθάνω	παντοκράτωρ	ἐλωΐ	αββα
+67 E Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young.txt	87 C High Status or Rank [including persons of high status].txt	5	3	διαγίνομαι	χρονοτριβέω	σχολάζω	παροίχομαι	μακρός	πρωτεύω	μεγαλωσύνη	κυρία
+53 A Religious Practice.txt	13 D Happen.txt	5	3	ἱεροπρεπής	εὐσεβής	δεισιδαίμων	θεοσέβεια	θρησκός	ἐπεισέρχομαι	ἐνίστημι	ἐκπληρόω
+24 F Pain, Suffering.txt	8 B Parts of the Body.txt	5	3	συμπαθέω	συγκακουχέομαι	πάσχω	συνωδίνω	πάθημα	κόμη	ἔριον	ὄψις
+11 C Socio-Political.txt	53 A Religious Practice.txt	5	3	λαός	πολίτης	πολιτεία	πολίτευμα	συμπολίτης	θρησκεία	θεοσεβής	εὐσεβής
+23 A Eat, Drink.txt	15 D Leave, Depart, Flee, Escape, Send.txt	5	3	τρέφω	βρῶσις	θηλάζω	ψωμίζω	τρώγω	ἐκβαίνω	ἔξειμι	ἐξέρχομαι
+28 C Well Known, Clearly Shown, Revealed.txt	5 A Food.txt	5	3	χρηματισμός	δηλόω	χρηματίζω	ξένος	ἀποκαλύπτω	πόμα	πόσις	σιτομέτριον
+5 A Food.txt	33 O Inform, Announce.txt	5	3	πόσις	ψίξ	χόρτασμα	ψωμίον	διατροφή	ἐξηγέομαι	ἄγγελος	ἀγγέλλω
+11 C Socio-Political.txt	67 E Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young.txt	5	3	πολίτευμα	συμπολίτης	θυγάτηρ	ἔθνος	συμφυλέτης	σχολάζω	χρόνος	μακρός
+53 I Roles and Functions.txt	23 G Live, Die.txt	5	3	ψευδοπροφήτης	προφήτης	προφῆτις	ἀπόστολος	ἀποστολή	ζάω	ζῳογονέω	ἀναζάω
+37 A Control, Restrain.txt	53 I Roles and Functions.txt	5	3	συνέχω	ζωγρέω	ἐνέχω	αὐθεντέω	συλαγωγέω	εὐπάρεδρον	ἀπόστολος	συμπρεσβύτερος
+28 E Not Able To Be Known, Secret.txt	12 A Supernatural Beings.txt	5	3	βαθύς	κρυφῇ	ἀπόκρυφος	κρύπτη	ἀφανής	Σαβαώθ	αββα	κυριακός
+6 Q Cloth, Leather, and Objects Made of Such Materials.txt	88 X Anger, Be Indignant With.txt	5	3	ὀθόνιον	καταπέτασμα	ὀθόνη	ἐπίβλημα	ῥάκος	ὀργίζομαι	θυμομαχέω	παροργισμός
+25 C Love, Affection, Compassion.txt	67 I Definite Units of Time: Year, Month, Week, Day, Hour.txt	5	3	φιλόστοργος	φίλαυτος	φιλότεκνος	φιλία	φιλάδελφος	τριετία	ἔτος	παραχειμασία
+85 E Dwell, Reside.txt	54 Maritime Activities.txt	5	3	παροικέω	κατοικέω	κατοικία	οἰκέω	κατοίκησις	ἀποπλέω	εὐθυδρομέω	πλοῦς
+28 E Not Able To Be Known, Secret.txt	23 I Sickness, Disease, Weakness.txt	5	3	ἀφανής	λάθρᾳ	βάθος	ἀπόκρυφος	βαθύς	νόσος	πυρετός	πυρέσσω
+14 F Light.txt	43 Agriculture.txt	5	3	ἐπιφώσκω	φαίνω	ἐπιφαύσκω	διαυγάζω	ἐκλάμπω	ἀμάω	σπείρω	ἐπισπείρω
+33 O Inform, Announce.txt	54 Maritime Activities.txt	5	3	ἀναγγέλλω	ἀπαγγέλλω	σπεκουλάτωρ	ἐξηγέομαι	ἐκδιηγέομαι	εὐθυδρομέω	πλέω	πλοῦς
+24 A See.txt	88 X Anger, Be Indignant With.txt	5	3	ὁράω	περιβλέπομαι	ὅραμα	ἐμβλέπω	βλέμμα	παροργισμός	ὀργίλος	ὀργίζομαι
+60 B One, Two, Three, Etc. [Cardinals].txt	33 E Written Language.txt	5	3	τέσσαρες	ἕξ	ὀκτώ	ἐννέα	ἑπτά	χειρόγραφον	ἀποστάσιον	ἀπογράφω
+28 E Not Able To Be Known, Secret.txt	64 Comparison.txt	5	3	μυστήριον	λάθρᾳ	κρυφαῖος	ἀπόκρυφος	βαθύς	οἷος	ἀφομοιόω	ὅμοιος
+25 C Love, Affection, Compassion.txt	20 D Kill.txt	5	3	φιλία	φιλάδελφος	φιλαδελφία	φιλότεκνος	φιλόστοργος	κοπή	διαχειρίζομαι	θανατόω
+33 Q Teach.txt	67 F Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From.txt	5	3	ὑποτίθημι	θεοδίδακτος	διδασκαλία	διδάσκω	διδακτός	μέχρι(ς)	παρατείνω	χρονίζω
+15 D Leave, Depart, Flee, Escape, Send.txt	74 Able, Capable.txt	5	3	ἀπέρχομαι	ἔξειμι	ἀπολύω	ἐκπορεύομαι	ἄφιξις	δυναμόω	δυνατέω	κατισχύω
+43 Agriculture.txt	67 I Definite Units of Time: Year, Month, Week, Day, Hour.txt	5	3	σπείρω	γεωργός	φυτεύω	ἀμάω	ἐπισπείρω	χειμών	ἔτος	φθινοπωρινός
+85 E Dwell, Reside.txt	13 D Happen.txt	5	3	οἰκέω	κατοίκησις	οἰκητήριον	περιοικέω	παροικέω	συμβαίνω	ἐπιγίνομαι	πρᾶγμα
+3 C Plants That Are Not Trees.txt	37 D Rule, Govern.txt	5	3	σίναπι	ἀκάνθινος	χλωρός	χόρτος	βάτος	κυριότης	ἡγεμών	κατακυριεύω
+23 C Birth, Procreation.txt	88 X Anger, Be Indignant With.txt	5	3	τεκνογονία	ἀρτιγέννητος	ὠδίν	γεννητός	γέννημα	θυμόομαι	παροργίζω	ὀργίλος
+23 C Birth, Procreation.txt	10 B Kinship Relations Involving Successive Generations.txt	5	3	γενετή	ὠδίν	γέννημα	τίκτω	τεκνογονέω	πατρικός	προπάτωρ	μήτηρ
+67 E Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young.txt	28 E Not Able To Be Known, Secret.txt	5	3	πάντοτε	σχολάζω	παροίχομαι	χρόνος	μακρός	μυστήριον	κρυπτός	κρυφῇ
+8 B Parts of the Body.txt	37 D Rule, Govern.txt	5	3	ἔριον	κέρας	θρίξ	τρίχινος	μέτωπον	ἡγεμονία	ἡγεμονεύω	ἄρχω
+7 C Parts and Areas of Buildings.txt	85 E Dwell, Reside.txt	5	3	οἴκημα	νυμφών	ἀνάγαιον	γαζοφυλάκιον	ὑπερῷον	κατοίκησις	οἰκητήριον	ἐνοικέω
+3 C Plants That Are Not Trees.txt	67 I Definite Units of Time: Year, Month, Week, Day, Hour.txt	5	3	ἄψινθος	τρίβολος	κάλαμος	βοτάνη	σίναπι	θέρος	παραχειμασία	τριετία
+24 F Pain, Suffering.txt	11 C Socio-Political.txt	5	3	προπάσχω	πόνος	συνωδίνω	συμπαθέω	συμπάσχω	συμπολίτης	πολίτης	θυγάτηρ
+87 C High Status or Rank [including persons of high status].txt	6 P Containers.txt	5	3	εὐγενής	μεγαλειότης	πρωτεύω	πρωτοστάτης	ἐξοχή	ἄγγος	στάμνος	ξέστης
+60 B One, Two, Three, Etc. [Cardinals].txt	12 A Supernatural Beings.txt	5	3	δύο	ἐννέα	ἕξ	τέσσαρες	ἑπτά	ἐλωΐ	παντοκράτωρ	Σαβαώθ
+37 A Control, Restrain.txt	33 O Inform, Announce.txt	5	3	ζωγρέω	αὐθεντέω	εὐπερίστατος	στενοχωρέομαι	βραβεύω	διηγέομαι	ἀγγελία	ἐξηγέομαι
+87 C High Status or Rank [including persons of high status].txt	14 F Light.txt	5	3	ἐξοχή	εὐγενής	ὑπεροχή	πρωτοστάτης	πρωτεύω	φαίνω	ἐπιφαύσκω	φωτίζω
+24 F Pain, Suffering.txt	67 F Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From.txt	5	3	πόνος	πάθημα	παθητός	συγκακουχέομαι	συμπαθέω	χρονίζω	ὀκνέω	βραδύνω
+24 A See.txt	3 C Plants That Are Not Trees.txt	5	3	ὁράω	ἀόρατος	προοράω	ἐμβλέπω	ἀναβλέπω	ἀκάνθινος	βάτος	τρίβολος
+23 A Eat, Drink.txt	11 B Socio-Religious.txt	5	3	ἐκτρέφω	τρέφω	ἐσθίω	θηλάζω	ψωμίζω	ἐκκλησία	νεόφυτος	ποίμνιον
+23 G Live, Die.txt	67 B A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After.txt	5	3	ζάω	ἐξανάστασις	ζῳοποιέω	ἀναζάω	ἔγερσις	πρῶτον	ἔκπαλαι	πάλαι
+53 I Roles and Functions.txt	7 C Parts and Areas of Buildings.txt	5	3	ψευδοπροφήτης	προφήτης	εὐαγγελιστής	εὐπάρεδρον	ἀποστολή	γαζοφυλάκιον	ταμεῖον	ξενία
+23 C Birth, Procreation.txt	24 A See.txt	5	3	ὠδίν	γεννητός	τίκτω	ἔγκυος	γενετή	περιβλέπομαι	βλέπω	βλέμμα
+7 B Buildings.txt	24 A See.txt	5	3	βασίλειος	οἶκος	σκηνή	πανδοχεῖον	σκηνοποιός	ὁρατός	ἀόρατος	ἐμβλέπω
+16 Non-Linear Movement.txt	53 A Religious Practice.txt	5	3	ἀποτινάσσω	σαλεύω	τρέμω	ῥιπή	σείω	θεοσεβής	δεισιδαιμονία	εὐσεβῶς
+6 Q Cloth, Leather, and Objects Made of Such Materials.txt	67 I Definite Units of Time: Year, Month, Week, Day, Hour.txt	5	3	ὀθόνιον	ῥάκος	ἔνδυμα	ὀθόνη	ἐπίβλημα	διετία	τριετία	διετής
+2 F Precious and Semiprecious Stones and Substances.txt	3 C Plants That Are Not Trees.txt	5	3	χρυσόπρασος	σάπφιρος	βήρυλλος	σάρδιον	σμάραγδος	βοτάνη	κάλαμος	τρίβολος
+16 Non-Linear Movement.txt	11 C Socio-Political.txt	5	3	ἀποτινάσσω	σείω	ἔντρομος	ταράσσω	σαλεύω	συμφυλέτης	ἀπαλλοτριόομαι	ἔθνος
+33 J Interpret, Mean, Explain.txt	30 A To Think, Thought.txt	5	3	δυσερμήνευτος	διερμηνεύω	φράζω	ἑρμηνεία	ἐπιλύω	ἔννοια	κατανοέω	διαλογίζομαι
+7 B Buildings.txt	53 A Religious Practice.txt	5	3	βασίλειος	οἰκία	κατάλυμα	σκήνωμα	οἶκος	ἱεροπρεπής	θρησκεία	δεισιδαιμονία
+37 A Control, Restrain.txt	28 C Well Known, Clearly Shown, Revealed.txt	5	3	εὐπερίστατος	συλαγωγέω	δοῦλος	αὐθεντέω	βραβεύω	χρηματίζω	ξένος	δηλόω
+3 C Plants That Are Not Trees.txt	67 A A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often.txt	5	3	κάλαμος	χόρτος	βάτος	ἀκάνθινος	ἄψινθος	προθεσμία	εὐκαιρέω	ὥρα
+64 Comparison.txt	16 Non-Linear Movement.txt	5	3	ὅμοιος	ἔοικα	ὁμοιότης	ὁμοίωμα	ἀφομοιόω	ἀποτινάσσω	σείω	ἐκτινάσσω
+23 I Sickness, Disease, Weakness.txt	64 Comparison.txt	5	3	πυρέσσω	λεπρός	πυρετός	νόσος	ἄρρωστος	ὁμοίως	ἀφομοιόω	ἔοικα
+3 C Plants That Are Not Trees.txt	87 C High Status or Rank [including persons of high status].txt	5	3	βάτος	βοτάνη	τρίβολος	ἄψινθος	σίναπι	κυρία	πρωτεύω	μεγαλωσύνη
+53 I Roles and Functions.txt	88 L' Sin, Wrongdoing, Guilt.txt	5	3	εὐπάρεδρον	συμπρεσβύτερος	προφῆτις	προφήτης	ψευδαπόστολος	ἄπταιστος	ἁμαρτία	ἁμάρτημα
+6 P Containers.txt	7 C Parts and Areas of Buildings.txt	5	3	ἄντλημα	νιπτήρ	ποτήριον	ἀγγεῖον	στάμνος	κορβανᾶς	ξενία	οἴκημα
+3 C Plants That Are Not Trees.txt	16 Non-Linear Movement.txt	5	3	ἀκάνθινος	τρίβολος	χλωρός	βάτος	βοτάνη	ταράσσω	ῥιπή	ἔντρομος
+67 E Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young.txt	37 D Rule, Govern.txt	5	3	ἑκάστοτε	παροίχομαι	διαγίνομαι	ἀεί	μακροχρόνιος	κατεξουσιάζω	ἄρχων	κατακυριεύω
+7 C Parts and Areas of Buildings.txt	49 Activities Involving Clothing and Adorning.txt	5	3	κοιτών	οἴκημα	θησαυρός	ὑπερῷον	νυμφών	περιβάλλω	ἐγκομβόομαι	ἱματίζω
+28 E Not Able To Be Known, Secret.txt	30 A To Think, Thought.txt	5	3	κρυφῇ	μυστήριον	βαθύς	ἀπόκρυφος	ἀφανής	ἔννοια	διαλογισμός	ἀναλογίζομαι
+15 D Leave, Depart, Flee, Escape, Send.txt	25 C Love, Affection, Compassion.txt	5	3	ἐκπορεύομαι	ἀπέρχομαι	ἀπολύω	μεταίρω	ἄφιξις	φιλία	φιλότεκνος	φίλανδρος
+28 C Well Known, Clearly Shown, Revealed.txt	3 C Plants That Are Not Trees.txt	5	3	χρηματισμός	αὐγάζω	φανερός	ἀποκαλύπτω	φανέρωσις	ἀκάνθινος	σίναπι	ἄκανθα
+28 E Not Able To Be Known, Secret.txt	67 I Definite Units of Time: Year, Month, Week, Day, Hour.txt	5	3	βαθύς	λάθρᾳ	κρυφῇ	βάθος	κρυφαῖος	θέρος	διετής	τριετία
+4 A Animals.txt	8 B Parts of the Body.txt	5	3	λύκος	θηρίον	ζῷον	θρέμμα	ἀλώπηξ	θρίξ	κέρας	κρανίον
